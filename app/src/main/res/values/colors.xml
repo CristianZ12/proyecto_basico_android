@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#6200EE</color>
+    <color name="colorPrimaryDark">#3700B3</color>
+    <color name="colorAccent">#03DAC5</color>
+    <color name="moradoT">#6639F8</color>
+    <color name="main1">#39D7F8</color>
+    <color name="mensajeHome">#6639F8</color>
+    <color name="boton1">#3238D9</color>
+    <color name="white">#ffffff</color>
+    <color name="cafeMR">#D97507</color>
+    <color name="btnR">#087AFC</color>
+    <color name="rojoCarmesi">#A51C30</color>
+</resources>

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/cafeMR"
+    tools:context=".QuestionActivity">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_centerVertical="true"
+        android:orientation="vertical"
+        android:gravity="center">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/AmoungUs"
+            android:textStyle="bold"
+            android:textSize="@dimen/titleR"
+            android:textColor="@color/white"
+            android:layout_marginBottom="25dp"/>
+
+        <ImageView
+            android:layout_width="@dimen/imageFondo"
+            android:layout_height="@dimen/imageFondo"
+            android:src="@mipmap/logo_tipo_cz"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="25dp"
+            android:layout_marginRight="25dp"
+            android:layout_marginTop="25dp"
+            android:text="@string/info1"
+            android:textSize="@dimen/info"
+            android:gravity="center"
+            android:textColor="@color/white"
+            android:layout_marginBottom="25dp"/>
+
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/salir"
+            android:textColor="@color/white"
+            android:textStyle="bold"
+            android:background="@color/btnR"
+            android:id="@+id/btn_salir"/>
+    </LinearLayout>
+
+</RelativeLayout>

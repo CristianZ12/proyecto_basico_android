@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">AmoungUs</string>
+    <string name="title_home">CJZR</string>
+    <string name="mensaje_home">Si desea desestresarse de su actividades diaria, le recomendamos este juego en donde tiene que funar a la gente antes de ser funado, ¡Buenas Suerte!</string>
+    <string name="start">Start</string>
+    <string name="BienvenidaR">Bienvenido a Amoung US</string>
+    <string name="nombre">Nombre</string>
+    <string name="apellido">Apellido</string>
+    <string name="email">Email</string>
+    <string name="pwr">Contraseña</string>
+    <string name="rptPwr">Repetir contraseña</string>
+    <string name="btnRegistrarse">Registrarse</string>
+    <string name="btnDuda">¿Tine alguna Duda? Presione aquí</string>
+    <string name="logOut">LogOut</string>
+    <string name="AmoungUs">Amoung Us</string>
+    <string name="info1">Esta Aplicación fue creada por Cristian de Jesús Zamora Rizo para ayudar a la población a que se distraigan jugando este bonito juego como lo es Amoung Us. Lo unico que tiene que hacer es registrate y comenzarás este lindo juego.</string>
+    <string name="salir">Salir</string>
+</resources>

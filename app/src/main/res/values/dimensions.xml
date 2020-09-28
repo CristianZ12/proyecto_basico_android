@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="imageFondo">90dp</dimen>
+    <dimen name="titleC">28dp</dimen>
+    <dimen name="titleR">22dp</dimen>
+    <dimen name="textHome">18dp</dimen>
+    <dimen name="textViewSize">18dp</dimen>
+    <dimen name="textHP">22dp</dimen>
+    <dimen name="info">18dp</dimen>
+</resources>
